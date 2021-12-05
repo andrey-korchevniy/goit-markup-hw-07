@@ -3,6 +3,12 @@
 @import "./base/body";
 @import "./base/vhidden";
 
-@import "./components/page-header";
-@import "./components/logo";
-@import "./components/nav"
+@import "./components/button";
+@import "./components/title";
+
+@import "./layout/page-header";
+@import "./layout/logo";
+@import "./layout/nav";
+@import "./layout/hero";
+
+@import "./layout/about";

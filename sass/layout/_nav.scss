@@ -7,7 +7,6 @@
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  text-decoration: none;
   color: $secondary-text-color;
 
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -18,10 +17,23 @@
   }
 }
 
-.nav {
+%flex-center {
   display: flex;
   align-items: center;
+}
+
+.menu {
+  display: flex;
+}
+
+.header-nav {
+  @extend %flex-center;
   margin-right: auto;
+}
+
+.nav {
+  @extend %flex-center;
+  margin-left: 93px;
 }
 
 .nav__item:not(:last-child) {
@@ -50,8 +62,7 @@
 }
 
 .contact {
-  display: flex;
-  align-items: center;
+  @extend %flex-center;
 }
 
 .contact__link {

@@ -143,10 +143,10 @@ h3 {
   margin-right: 30px;
 } */
 
-.nav-svg {
+/* .nav-svg {
   margin-right: 10px;
   --color: currentColor;
-}
+} */
 
 /* .nav-item {
   position: relative;
@@ -165,7 +165,7 @@ h3 {
 } */
 
 /* ------------------ HERO SECTION ------------------------------ */
-.hero {
+/* .hero {
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
@@ -213,10 +213,10 @@ h3 {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   min-width: 200px;
-}
+} */
 
 /* ------------------- FEATURES SECTION ---------------*/
-.features-list {
+/* .features-list {
   display: flex;
 }
 
@@ -251,10 +251,10 @@ h3 {
 .features-pic {
   width: 70px;
   height: 70px;
-}
+} */
 
 /* ------------------- ABOUT SECTION ---------------------------------*/
-.about {
+/* .about {
   padding-top: 0;
 }
 
@@ -287,7 +287,7 @@ h3 {
 
 .about-img {
   display: block;
-}
+} */
 
 /* ------------------- TEAM SECTION ---------------*/
 .team {

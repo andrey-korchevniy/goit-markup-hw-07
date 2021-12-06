@@ -17,14 +17,8 @@
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
-}
 
-.hero__title {
-  color: $hero-title-color;
-  font-weight: 900;
-  font-size: 44px;
-  line-height: 1.36;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  margin-bottom: 30px;
+  &__title {
+    @extend %h1-title;
+  }
 }

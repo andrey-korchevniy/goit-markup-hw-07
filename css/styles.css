@@ -80,7 +80,7 @@ ul {
 .active.nav-link {
   color: var(--accent-color);
 } */
-
+/* 
 .title {
   color: var(--secondary-text-color);
   font-weight: 700;
@@ -95,7 +95,7 @@ h3 {
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
-}
+} */
 
 /* ------------------ PAGE HEADER------------------------------ */
 /* .page-header {
@@ -290,7 +290,7 @@ h3 {
 } */
 
 /* ------------------- TEAM SECTION ---------------*/
-.team {
+/* .team {
   background-color: var(--bgc-ourteam);
 }
 
@@ -365,7 +365,7 @@ h3 {
 
 .team-card h3 {
   text-transform: none;
-}
+} */
 
 /* ---------------- CLIENTS --------------------------- */
 

@@ -144,7 +144,7 @@ body {
 .logo {
   font-family: Raleway, sans-serif;
   font-size: 26px;
-  line-height: 1.2;
+  line-height: 1.19;
   text-decoration: none;
   color: #2196f3;
   letter-spacing: 0.03em;
@@ -228,6 +228,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  color: #757575;
 }
 
 .contact__item:not(:last-child) {

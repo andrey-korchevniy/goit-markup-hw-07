@@ -68,6 +68,7 @@
 .contact__link {
   @extend %nav-style;
   display: flex;
+  color: $primary-text-color;
 }
 
 .contact__item:not(:last-child) {
